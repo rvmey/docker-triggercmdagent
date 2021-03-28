@@ -1,0 +1,1 @@
+docker build . -t rvmey/triggercmdagent:1.1
