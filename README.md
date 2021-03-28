@@ -8,5 +8,5 @@ Use the .bat scripts on Windows and the .sh scripts on Linux or Mac.
 You can also just try the end product with this command:
 
 ```
-docker run -it rvmey/triggercmdagent:1.1
+docker run -it rvmey/triggercmdagent
 ```
